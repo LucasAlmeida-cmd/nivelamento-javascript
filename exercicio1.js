@@ -1,8 +1,10 @@
-nome = "Lucas";
-idade = 22;
-aprovado = true;
-notas = [10, 10, 10];
-usuario = {
+console.log("Exercício 1");
+
+let nome = "Lucas";
+let idade = 22;
+let aprovado = true;
+let notas = [10, 10, 10];
+let usuario = {
     email: "lucas@gmail.com",
     senha: "123456"
 };
